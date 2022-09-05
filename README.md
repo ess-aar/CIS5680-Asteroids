@@ -1,5 +1,5 @@
 # CIS5680-Asteroids
-Sakshi Rathore
+###### Sakshi Rathore
 
 Simple implementation of the Atari Asteroids game
 
